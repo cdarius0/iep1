@@ -1,0 +1,4 @@
+/home/darius/Desktop/iep/02/CMakeFiles/rebuild_cache.dir
+/home/darius/Desktop/iep/02/CMakeFiles/edit_cache.dir
+/home/darius/Desktop/iep/02/CMakeFiles/mylib.dir
+/home/darius/Desktop/iep/02/CMakeFiles/hello.dir

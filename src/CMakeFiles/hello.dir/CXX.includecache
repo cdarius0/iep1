@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/hello/hello.hpp
+
+../inc/hello/hello_config.hpp
+iostream
+-
+
+/home/darius/Desktop/iep/02/src/hello.cpp
+hello/hello.hpp
+-
+hello/hello_config.hpp
+-
+chrono
+-
+ctime
+-
+
+/home/darius/Desktop/iep/02/src/main.cpp
+hello/hello.hpp
+-
+
